@@ -1,1 +1,2 @@
 wnj
+add test
